@@ -147,8 +147,8 @@ export const dataCounter = [
 export const serviceData = [
     {
         icon: <Crop />,
-        title: "Branding",
-        description: "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
+        title: "Wordpress",
+        description: "Desarrollo de paginas web dando una identidad de marca sólida y coherente, incluyendo diseño, colores y elementos visuales",
     },
     {
         icon: <Pencil />,
@@ -162,8 +162,8 @@ export const serviceData = [
     },
     {
         icon: <Book />,
-        title: "Copywriting",
-        description: "Creación de contenido persuasivo y atractivo que capta la atención de tu audiencia",
+        title: "Excel",
+        description: "Creación de hojas de calculo persuasivo y atractivo que capta la atención de tu audiencia",
     },
     {
         icon: <Rocket />,
@@ -234,35 +234,35 @@ export const dataPortfolio = [
 export const dataTestimonials = [
     {
         id: 1,
-        name: "George Snow",
+        name: "George Fringe",
         description:
             "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
         imageUrl: "/profile1.png",
     },
     {
         id: 2,
-        name: "Juan Pérez",
+        name: "Patricia Mendoza",
         description:
             "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
         imageUrl: "/profile2.png",
     },
     {
         id: 3,
-        name: "María García",
+        name: "Pablo García",
         description:
             "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
         imageUrl: "/profile3.png",
     },
     {
         id: 4,
-        name: "Laura Snow",
+        name: "Jhon Snow",
         description:
             "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
         imageUrl: "/profile4.png",
     },
     {
         id: 5,
-        name: "Carlos Sánchez",
+        name: "Carla Sánchez",
         description:
             "Una joya en la web. Los testimonios son fáciles de encontrar y están bien organizados. ¡Definitivamente mi destino número uno cuando necesito referencias confiables!",
         imageUrl: "/profile5.png",
